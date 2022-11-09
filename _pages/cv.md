@@ -21,12 +21,12 @@ Currently, I'm working on battery-free wireless sensor nodes for backscatter com
 As an example of application scenarios, the battery-free nodes are deployed in hazardous environments, .e.g, caves, forests and oceans. A low-altitude drone equipped with an RFID Reader collects the data from the nodes by flying along the nodes one by one. The battery-free design in wireless sensor networks improves the scalability and lifetime of wireless sensor nodes by removing the cost of battery maintenance.
 
 The figures below show the PCB and node design, S11 and the received spectrums of the 2-FSK signals in backscatter communications.
-The reflection coefficient from the proposed circuit (S11) in the first figure is measured by a Rohde & Schwarz network analyzer, which indicates the circuit has good impedance matching at the target frequency (915 MHz). In this project, Keysight ADS is used for impedance matching, schematic and PCB design, and the Large-Signal S-Parameters (LSSP) and harmonic balance simulation. Ettus USRP is used to evaluate the system's performance. An ultra-low power chip (TI MSP430) supports power management in energy harvesting and the wireless modulation and demodulation in backscatter communications.
+The reflection coefficient from the proposed circuit (S11) in the first figure is measured by a Rohde & Schwarz network analyzer, which indicates the circuit has good impedance matching at the target frequency (915 MHz). In this project, Keysight ADS is used for impedance matching, schematic and PCB design, and the Large-Signal S-Parameters (LSSP) and harmonic balance simulation. Ettus USRP is used to evaluate the system's performance. An ultra-low power chip (TI MSP430) supports power management in energy harvesting and wireless modulation and demodulation in backscatter communications.
 
 <table style="text-align:center" class="center">
 <tr>
-<th><a href="/assets/paper_img/EH/EH-4.png"><img src="/assets/paper_img/EH/EH-4.png" width="800"/></a></th>
-<th><a href="/assets/paper_img/EH/EH-1.gif"><img src="/assets/paper_img/EH/EH-1.gif" width="490"/></a></th>
+<th><a href="/assets/paper_img/EH/EH-4.png"><img src="/assets/paper_img/EH/EH-4.png" style="width:62vw"/></a></th>
+<th><a href="/assets/paper_img/EH/EH-1.gif"><img src="/assets/paper_img/EH/EH-1.gif" style="width:38vw"/></a></th>
 </tr>
 <tr>
 <td><Figurenum>The proposed battery-free wireless sensor node (click the figures to zoom in)</Figurenum></td>
@@ -41,9 +41,9 @@ I proposed a new speech enhancement architecture called LPCSE that combines clas
 
 <table style="text-align:center" class="center">
 <tr>
-<th> <a href="/assets/paper_img/LPCSE/GC2022-1.jpg"><img src="/assets/paper_img/LPCSE/GC2022-1.jpg" width=400/></a></th>
-<th> <a href="/assets/paper_img/LPCSE/GC2022-2.jpg"><img src="/assets/paper_img/LPCSE/GC2022-2.jpg" width=400/></a></th>
-<th> <a href="/assets/paper_img/LPCSE/GC2022-3.jpg"><img src="/assets/paper_img/LPCSE/GC2022-3.jpg" width=400/></a></th>
+<th> <a href="/assets/paper_img/LPCSE/GC2022-1.jpg"><img src="/assets/paper_img/LPCSE/GC2022-1.jpg" style="width:33vw"/></a></th>
+<th> <a href="/assets/paper_img/LPCSE/GC2022-2.jpg"><img src="/assets/paper_img/LPCSE/GC2022-2.jpg" style="width:33vw"/></a></th>
+<th> <a href="/assets/paper_img/LPCSE/GC2022-3.jpg"><img src="/assets/paper_img/LPCSE/GC2022-3.jpg" style="width:33vw"/></a></th>
 </tr>
 <tr>
 <td><Figurenum>The LPC model and an application scenario</Figurenum></td>
@@ -68,8 +68,8 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 
 <table style="text-align:center" class="center">
 <tr>
-<th><a href="/assets/paper_img/MM2018/phase-based-ranging.gif"><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="500" /></a></th>
-<th><a href="/assets/paper_img/MM2018/breathing.png"><img src="/assets/paper_img/MM2018/breathing.png" width="450" /> </a></th>
+<th><a href="/assets/paper_img/MM2018/phase-based-ranging.gif"><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" style="width:55vw"/></a></th>
+<th><a href="/assets/paper_img/MM2018/breathing.png"><img src="/assets/paper_img/MM2018/breathing.png" style="width:47vw"/> </a></th>
 </tr>
 <tr>
 <td><Figurenum>Phase based ranging</Figurenum></td>
@@ -85,8 +85,8 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /></th>
-<th>  <img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /> </th>
+<th><img src="/assets/paper_img/IoT2019/MDV.gif" style="width:15vw"/></th>
+<th>  <img src="/assets/paper_img/IoT2019/Multipath_fading.png" style="width:30vw" /> </th>
 </tr>
 <tr>
 <td><Figurenum>A new feature indicating multipath fading in real time</Figurenum></td>
@@ -124,8 +124,8 @@ Our key insight is that the real-time power consumption of low-power devices cha
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/PTone/hardware.png" width="360" /></th>
-<th>  <img src="/assets/paper_img/PTone/wave.png" width="300" /> </th>
+<th><img src="/assets/paper_img/PTone/hardware.png" style="width:22vw"/></th>
+<th>  <img src="/assets/paper_img/PTone/wave.png" style="width:18vw"/> </th>
 </tr>
 <tr>
 <td><Figurenum>Real-time power measurement system</Figurenum></td>
