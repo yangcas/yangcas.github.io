@@ -14,29 +14,30 @@ I received a Ph.D. degree in Communication and Information System from the Unive
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
 
-### Battery-free backscatter communications
-#### My contributions:
-I proposed a battery-free circuit that harvests energy from RF signals at RFID frequency bands, and then reflects the RF signals embedded with the raw signals from analog sensors. The proposed system aims to improve the scalability and lifetime of wireless sensor nodes by removing the cost of battery maintenance.
-Keysight ADS is used for impedance matching, schematic and PCB design, and the Large-Signal S-Parameters (LSSP) and harmonic balance simulation. Ettus USRP is used to evaluate the system's performance. An ultra-low power chip (TI MSP430) enables microwatt-level uplink and downlink communications.
+### Battery-free wireless sensor nodes for backscatter communications
+#### My contributions and methodologies:
+Currently, I'm working on battery-free wireless sensor nodes for backscatter communications. The proposed node harvests energy from RF signals at RFID frequency bands, and then reflects the RF signals embedded with the raw signals from analog sensors, e.g., nanogenerators, microphones and piezo sensors. The node enables microwatt-level uplink and downlink communications to an RFID Reader at a distance of a couple of meters.
 
+As an example of application scenarios, the battery-free nodes are deployed in hazardous environments, .e.g, caves, forests and oceans. A low-altitude drone equipped with an RFID Reader collects the data from the nodes by flying along the nodes one by one. The battery-free design in wireless sensor networks improves the scalability and lifetime of wireless sensor nodes by removing the cost of battery maintenance.
+
+The figures below show the PCB and node design, S11 and the received spectrums of the 2-FSK signals in backscatter communications.
+The reflection coefficient from the proposed circuit (S11) in the first figure is measured by a Rohde & Schwarz network analyzer, which indicates the circuit has good impedance matching at the target frequency (915 MHz). In this project, Keysight ADS is used for impedance matching, schematic and PCB design, and the Large-Signal S-Parameters (LSSP) and harmonic balance simulation. Ettus USRP is used to evaluate the system's performance. An ultra-low power chip (TI MSP430) supports power management in energy harvesting and the wireless modulation and demodulation in backscatter communications.
 
 <table style="text-align:center" class="center">
 <tr>
-<th><a href="/assets/paper_img/EH/EH-1.gif"><img src="/assets/paper_img/EH/EH-1.gif" width="400"/></a></th>
-<th><a href="/assets/paper_img/EH/EH-2.jpg"><img src="/assets/paper_img/EH/EH-2.jpg" width="400"/></a></th>
-<th><a href="/assets/paper_img/EH/EH-3.jpg"><img src="/assets/paper_img/EH/EH-3.jpg" width="400"/></a></th>
+<th><a href="/assets/paper_img/EH/EH-4.png"><img src="/assets/paper_img/EH/EH-4.png" width="800"/></a></th>
+<th><a href="/assets/paper_img/EH/EH-1.gif"><img src="/assets/paper_img/EH/EH-1.gif" width="490"/></a></th>
 </tr>
 <tr>
-<td><Figurenum>The soldering for the proposed PCB</Figurenum></td>
-<td><Figurenum>The S11 (the reflection coefficient from the proposed circuit) in a Smith Chart</Figurenum></td>
-<td><Figurenum>The S11 in the unit of dB (click the figures to zoom in)</Figurenum></td>
+<td><Figurenum>The proposed battery-free wireless sensor node (click the figures to zoom in)</Figurenum></td>
+<td><Figurenum>PCB design and soldering</Figurenum></td>
 </tr>
 </table>
 
 
-### LPCSE: Neural Speech Enhancement through Linear Predictive Coding
-#### My contributions:
-I proposed a new speech enhancement architecture called LPCSE that combines classic signal processing technologies with neural networks in the auto-differentiable machine learning frameworks, as shown in the figures below. The proposed architecture could leverage the strong inductive biases in the classic speech models in conjunction with the expressive power of neural networks. I also studied the speech synthesis and enhancement technologies, such as speech vocoders (WaveNet WaveRNN, MelGAN HiFi-GAN, etc.), denoising (SEGAN, U-net, etc.), voice conversion (AutoVC, StarGAN-VC, etc.), and expert-rule inspired speech and audio synthesis (LPCNet, DDSP, etc.).
+### LPCSE: Neural Speech Enhancement through Linear Predictive Coding (IEEE GLOBECOM'22)
+#### My contributions and methodologies:
+I proposed a new speech enhancement architecture called LPCSE that combines classic signal processing technologies, i.e., Linear Predictive Coding (LPC), with neural networks in the auto-differentiable machine learning frameworks, as shown in the figures below. The proposed architecture could leverage the strong inductive biases in the classic speech models in conjunction with the expressive power of neural networks. To achieve this work, I also studied the speech synthesis and enhancement technologies, such as speech vocoders (WaveNet WaveRNN, MelGAN HiFi-GAN, etc.), denoising (SEGAN, U-net, etc.), voice conversion (AutoVC, StarGAN-VC, etc.), and expert-rule inspired speech and audio synthesis (LPCNet, DDSP, etc.).
 
 <table style="text-align:center" class="center">
 <tr>
@@ -62,7 +63,7 @@ A brief introduction to this project is shown in the video below.
 ### PAMT: Phase-based Acoustic Ranging and Motion Tracking in Multipath Fading Environments (IEEE INFOCOM'19 and ACM MM'18)
 #### My contributions:
 - I proposed and implemented a fine-grained ranging system on commercial mobile devices (e.g., smartphones).
-The key insight is that the acoustic phase change can be used to achieve accurate distance measurement.
+The key idea is that the acoustic phase is used to achieve accurate distance measurement.
 A prototype system of ranging is implemented on a standard Android smartphone, which could monitor human breathing, as shown in the figures below. 
 
 <table style="text-align:center" class="center">
@@ -78,7 +79,7 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 
 - I also proposed and implemented a fine-grained and low-cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with a computer by using a gesture interface in practical indoor environments. The system could provide economical and flexible navigation and gesture recognition for VR/AR users.
  
-- However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals. To address this challenge, I proposed a method to estimate the impact of multipath fading in real-time, as shown in the figures below. . Further, the actual moving distance is calculated by combining the moving distances measured at different frequencies, as shown in Fig.4. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
+- In practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals. To address this challenge, I proposed a metric to identify the impact of multipath fading in real time. Based on the metric, I proposed a multipath interference mitigation method through the diversity of acoustic frequencies, in which the actual moving distance is calculated by combining the moving distances measured at different frequencies, as shown in the figures below. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
 
 
@@ -88,7 +89,7 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 <th>  <img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /> </th>
 </tr>
 <tr>
-<td><Figurenum>A new feature indicating multipath fading in real-time</Figurenum></td>
+<td><Figurenum>A new feature indicating multipath fading in real time</Figurenum></td>
 <td><Figurenum> Moving distance measured at different
 frequencies</Figurenum></td>
 </tr>
@@ -110,13 +111,16 @@ A brief introduction to this project is shown in the video below.
 
 
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
+#### Motivations:
 Engineers engaged in the development of battery power-supply devices are facing huge pressure to reduce the consumption of power.
-During the development, engineers are required to know the real-time power computation of Devices Under Test (DUT).
-In this work, a low-cost and real-time power measurement platform called PTone is proposed to provide a more flexible way for low-power device development than cumbersome equipment.
-We compare PTone with Keysight 34465A, and results show that PTone estimates power to be within 0.37% of its correct value, as shown in the figures below.
+During the development, engineers require a flexible and low-cost way to know the real-time power computation of multiple Devices Under Tests (DUTs).
+
+#### My contributions:
+In this work, a low-cost and real-time power measurement platform called PTone is proposed to provide a more flexible way for low-power device development than cumbersome equipment, e.g., Keysight 34465A.
 Compared with traditional measuring equipment, such as Keysight 34465A (>$1500 on Amazon), our system (<$20) use could be widely deployed.
-Based on the real-time power consumption measured by the system, we propose an SVM-based method to diagnose the abnormal status of DUT.
-Our key insight is that the real-time power consumption of low-power devices changes with the periodic system process, such as data collecting, simple signal processing, signal transmission, and sleep.
+The median error of PTone is less than 0.37% of the benchmark, as shown in the figures below.
+Based on the real-time power consumption measured by the system, we propose an SVM-based method to diagnose the abnormal status of DUTs.
+Our key insight is that the real-time power consumption of low-power devices changes with the periodic system process, such as data collecting, simple signal processing, signal transmission, and sleep, and we used the features of the power consumption to identify whether the microcontroller in the DUT works as expected. 
 
 <table style="text-align:center" class="center">
 <tr>
@@ -125,7 +129,7 @@ Our key insight is that the real-time power consumption of low-power devices cha
 </tr>
 <tr>
 <td><Figurenum>Real-time power measurement system</Figurenum></td>
-<td><Figurenum>Power consumption measured by our system and digital multimeter</Figurenum></td>
+<td><Figurenum>Power consumption measured by our system and Keysight 34465A</Figurenum></td>
 </tr>
 </table>
 
