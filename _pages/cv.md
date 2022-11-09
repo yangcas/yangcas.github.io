@@ -77,7 +77,7 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 </tr>
 </table>
 
-- I also proposed and implemented a fine-grained and low-cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with a computer by using a gesture interface in practical indoor environments. The system could provide economical and flexible navigation and gesture recognition for VR/AR users.
+- Based on the ranging method above, I proposed and implemented a fine-grained and low-cost acoustic motion-tracking method called PAMT for mobile interaction. The proposed method allows mobile users to interact with a computer by using a gesture interface in practical indoor environments. The system could provide economical and flexible navigation and gesture recognition for VR/AR users.
  
 - In practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals. To address this challenge, I proposed a metric to identify the impact of multipath fading in real time. Based on the metric, I proposed a multipath interference mitigation method through the diversity of acoustic frequencies, in which the actual moving distance is calculated by combining the moving distances measured at different frequencies, as shown in the figures below. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
