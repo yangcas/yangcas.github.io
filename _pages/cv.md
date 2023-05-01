@@ -9,7 +9,7 @@ My name is Yang Liu, a Marie Curie Research Fellow in the Department of Electron
 
 My projects involve the development of hardware and software systems and the evaluation of the systems in real-world deployments.
 I am always looking for new opportunities and challenges to explore various types of wireless signals, e.g., radio, acoustics, and visible light, to enable novel technologies, such as acoustic motion tracking, breathing motoring, indoor localization, and battery-free communications.
-I received a Ph.D. degree in Communication and Information System from the University of Chinese Academy of Sciences (UCAS), China, in July 2019. My Ph.D. supervisor is Professor [<font color="blue">[Yang Yang]</font>](https://faculty.sist.shanghaitech.edu.cn/faculty/yangyang/). I received a Master of Engineering (M.Eng.) degree in Software Engineering from Beihang University, China, in 2016, and a Bachelor of Engineering (B.Eng.) degree in Microelectronics from Anhui University, China, in 2012. 
+I received a Ph.D. degree in Communication and Information Systems from the University of Chinese Academy of Sciences (UCAS), China, in July 2019. My Ph.D. supervisor is Professor [<font color="blue">[Yang Yang]</font>](https://faculty.sist.shanghaitech.edu.cn/faculty/yangyang/). I received a Master of Engineering (M.Eng.) degree in Software Engineering from Beihang University, China, in 2016, and a Bachelor of Engineering (B.Eng.) degree in Microelectronics from Anhui University, China, in 2012. 
 
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
