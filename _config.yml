@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yang Liu" # &name is a YAML anchor which can be *referenced later
-description              : &description "Marie Curie Research Fellow at The University of Sheffield"
+description              : &description Research Scientist @ Nokia Bell Labs | ex Marie Curie Research Fellow @ The University of Sheffield
 url                      : https://yangcas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "yangcas/yangcas.github.io"

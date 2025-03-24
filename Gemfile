@@ -16,6 +16,9 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem 'faraday-retry'
+  gem 'csv'
+  gem 'bigdecimal'
 end
 
 gem "webrick", "~> 1.7"

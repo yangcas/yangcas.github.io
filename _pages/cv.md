@@ -3,16 +3,57 @@ permalink: /
 title: "About me"
 toc: true
 ---
+<p>I am a Research Scientist at <a href="https://www.nokia.com/bell-labs/about/locations/cambridge-uk/" target="_blank">Nokia Bell Labs</a>, Cambridge, UK.</p>
 
-My name is Yang Liu, a Marie Curie Research Fellow in the Department of Electronic and Electrical Engineering at the University of Sheffield, UK. My advisor is Professor 
-[<font color="blue">[Xiaoli Chu]</font>](https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu). I'm leading a project of battery-free backscatter communications funded by the EU Horizon 2020 programme. Currently, my work focuses on the research of a battery-free backscatter communication system to embed acoustic signals into RFID signals, including RF energy harvesting and PCB design (Keysight ADS), software-defined radio (Ettus USRP), ultra-low power microcontroller development (TI MSP430), and acoustic signal processing with machine learning (Pytorch). 
+<p>Previously, I was a Marie Curie Research Fellow at The University of Sheffield, UK, where I worked under the supervision of 
+<a href="https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu" target="_blank">Professor Xiaoli Chu</a>. 
+During this time, I led a EU Horizon 2020-funded project on battery-free backscatter communications.</p>
 
-My projects involve the development of hardware and software systems and the evaluation of the systems in real-world deployments.
-I am always looking for new opportunities and challenges to explore various types of wireless signals, e.g., radio, acoustics, and visible light, to enable novel technologies, such as acoustic motion tracking, breathing motoring, indoor localization, and battery-free communications.
-I received a Ph.D. degree in Communication and Information Systems from the University of Chinese Academy of Sciences (UCAS), China, in July 2019. My Ph.D. supervisor is Professor [<font color="blue">[Yang Yang]</font>](https://faculty.sist.shanghaitech.edu.cn/faculty/yangyang/). I received a Master of Engineering (M.Eng.) degree in Software Engineering from Beihang University, China, in 2016, and a Bachelor of Engineering (B.Eng.) degree in Microelectronics from Anhui University, China, in 2012. 
+<p>Currently, my research focuses on wearable devices, digital health, wireless sensing, and embedded machine learning. 
+I am passionate about exploring diverse wireless signals—including acoustic, RF, UWB, mmWave and visible light—to enable novel technologies such as vital signs monitoring, indoor localization and motion tracking, and ultra-low power or battery-free systems.</p>
+
+<p>My projects involve end-to-end development of hardware and software systems, with extensive real-world deployments. 
+These experiences have equipped me with interdisciplinary, hands-on skills in:</p>
+<ul>
+  <li>Advanced signal processing and machine learning for wireless signals</li>
+  <li>Wireless sensing and localization</li>
+  <li>Low-power embedded system design</li>
+  <li>Rapid hardware prototyping</li>
+  <li>User study design for wearable sensing</li>
+</ul>
+
+<p>I received a Ph.D. in Communication and Information Systemsfrom the 
+University of Chinese Academy of Sciences (UCAS), China, in July 2019, supervised by 
+<a href="https://faculty.sist.shanghaitech.edu.cn/faculty/yangyang/" target="_blank">Professor Yang Yang</a>. 
+I also earned a M.Eng. in Software Engineering from Beihang University in 2016, 
+and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
+
+<p>I am always looking for <strong>new opportunities and challenges</strong> that allow me to explore and push the boundaries of wireless technologies. <strong>I warmly welcome collaborations</strong>.</p>
 
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
+
+### OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning
+<p>
+We proposed OmniBuds, which is an advanced earable research platform designed to enable multimodal bio-sensing and on-device machine learning, advancing real-time health perception. Unlike conventional wearables that rely on cloud-based processing, OmniBuds offers direct access to raw physiological data, supporting privacy-preserving, real-time analysis. It integrates a wide array of sensors, including PPG, temperature, IMUs, and multiple microphones, all within a compact True Wireless Stereo (TWS) earbud form factor. Equipped with an embedded machine learning accelerator, OmniBuds enables efficient on-device computation, optimized for low power consumption to support continuous operation. This platform is ideal for researchers aiming to explore health-aware wearable intelligence and real-time physiological monitoring.
+</p>
+<p>
+Web: <a href="https://www.omnibuds.tech/">https://www.omnibuds.tech/</a><br>
+Paper: <a href="https://arxiv.org/abs/2410.04775">https://arxiv.org/abs/2410.04775</a>
+</p>
+
+
+<table style="text-align:center" class="center">
+<tr>
+<th><a href="/assets/paper_img/OmniBuds/HW.png"><img src="/assets/paper_img/OmniBuds/HW.png" style="width:58vw"/></a></th>
+<th><a href="/assets/paper_img/OmniBuds/System.jpg"><img src="/assets/paper_img/OmniBuds/System.jpg" style="width:42vw"/></a></th>
+</tr>
+<tr>
+<td><Figurenum>OmniBuds Hardware Block Diagram.</Figurenum></td>
+<td><Figurenum>Placement of the sensors in OmniBuds</Figurenum></td>
+</tr>
+</table>
+
 
 ### Battery-free wireless sensor nodes for backscatter communications
 #### My contributions and methodologies:
@@ -135,55 +176,40 @@ Our key insight is that the real-time power consumption of low-power devices cha
 
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
-1. **Yang Liu**, Na Tang, Xiaoli Chu, Yang Yang, and Jun Wang, "LPCSE: Neural Speech Enhancement through Linear Predictive Coding," arXiv preprint arXiv:2206.06908, 2022. [<font color="blue">[PDF]</font>](https://arxiv.org/abs/2206.06908)
-2. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal*, 2019. (IF: 5.863) [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
-3.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* 2019(INFOCOM’19). (Rank A, acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
-4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM Multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
-5.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (A Chinese journal)
-6.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
-7. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019. [<font color="blue">[PDF]</font>](/_pdf/TMSRS.pdf)
-8.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
+1. **Yang Liu**, Alessandro Montanari, and Fahim Kawsar, "mmHvital: A Study on Head-Mounted mmWave Radar for Vital Sign Monitoring," submitted, (To appear).
+
+2. **Yang Liu**, Alessandro Montanari, Ashok Thangarajan, Khaldoon Al-Naimi, Andrea Ferlini, Ananta Narayanan Balaji, and Fahim Kawsar, "Demo: Multimodal Bio-Sensing and On-Device Machine Learning: Advancing Health Perception with OmniBuds," ACM SenSys 2025, DOI: 10.1145/3715014.3724367 (To appear). 
+
+3. Harshvardhan Takawale, **Yang Liu**, Khaldoon Al-Naimi, Fahim Kawsar, and Alessandro Montanari, "Towards Detecting Auditory Attention from in-Ear Muscle Contractions using Commodity Earbuds," in *ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing*, pp. 1-5, IEEE, 2025. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/abstract/document/10889668)
+
+4. Jiatao Quan, Khaldoon Al-Naimi, Xijia Wei, **Yang Liu**, Fahim Kawsar, Alessandro Montanari, and Ting Dang, "Cognitive Load Monitoring via Earable Acoustic Sensing," in *ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing*, pp. 1-5, IEEE, 2025. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/abstract/document/10887838)
+
+5. Irtaza Shahid, Khaldoon Al-Naimi, Ting Dang, **Yang Liu**, Fahim Kawsar, and Alessandro Montanari, "Towards Enabling DPOAE Estimation on Single-Speaker Earbuds," in *ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing*, pp. 246-250, IEEE, 2024. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/document/10446436)
+
+6. Alessandro Montanari, Ashok Thangarajan, Khaldoon Al-Naimi, Andrea Ferlini, **Yang Liu**, Ananta Narayanan Balaji, and Fahim Kawsar, "OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning," *arXiv preprint arXiv:2410.04775*, 2024. [<font color="blue">[LINK]</font>](https://arxiv.org/abs/2410.04775)
+
+7. Na Tang, **Yang Liu**, Xiaoli Chu, Ian F. Akyildiz, "Design, Modeling and Analysis of Underwater Acoustic Backscatter Communications," IEEE *ICC (International Computer Communications)* Conf., Denver, Colorado, USA, June 2024. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/document/10623056)
+
+8. Zhiyu Liu, **Yang Liu**, and Xiaoli Chu, "Reconfigurable-Intelligent-Surface-Assisted Indoor Millimeter-Wave Communications for Mobile Robots," *IEEE Internet of Things Journal*, vol. 11, no. 1, pp. 1548-1557, Jan. 1, 2024. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/document/10163913)
+
+9. **Yang Liu**, Na Tang, Xiaoli Chu, Yang Yang, and Jun Wang, "LPCSE: Neural Speech Enhancement through Linear Predictive Coding," *GLOBECOM 2022 - 2022 IEEE Global Communications Conference*, Rio de Janeiro, Brazil, 2022, pp. 5335-5341, doi: 10.1109/GLOBECOM48099.2022.10001278. [<font color="blue">[PDF]</font>](https://ieeexplore.ieee.org/document/10001278)
+
+10. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, "RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities," *IEEE Internet of Things Journal*, 2019. [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/document/8660446)
+
+11. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, "PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments," *IEEE Conference on Computer Communications* 2019 (INFOCOM’19). (Rank A, acceptance rate: 19.7%). [<font color="blue">[LINK]</font>](https://ieeexplore.ieee.org/document/8737366)
+
+12. **Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang, "Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction," *ACM Multimedia conference* (ACM MM’18). [<font color="blue">[LINK]</font>](https://dl.acm.org/doi/10.1145/3240508.3241385)
+
+
+13. **Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang, "A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices," *Mobile Information Systems*, 2017.
+
+14. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang, "TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing," *Wireless Networks*, 2019. [<font color="blue">[LINK]</font>](https://link.springer.com/article/10.1007/s11276-019-02129-w)
+
+15. Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen, "A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution," *Science China Information Sciences*, 2017. [<font color="blue">[LINK]</font>](https://link.springer.com/article/10.1007/s11432-016-9028-0)
 
 
 
-<h2 id="skills"><i class="ion-ios-gear"></i> Skills</h2>
 
-
-* Digital signal processing
-  * Speech signal processing.
-  * Sonar, radio radar.
-  * Wireless modulation and demodulation.
-  * Wireless indoor localization.
-  * Wireless channel estimation and equalization.
-  * Array signal processing and Spectral density estimation.
-* Embedded system development
-  * IoT microcontroller development, e.g., STM32, TI MSP430.
-  * Linux-based system development, such as Ubuntu, Betaflight, and OpenWrt.
-* Applications of machine learning technologies.
-  * Neural speech enhancement.
-  * Multipath fading mitigation in wireless communications.
-* Hardware skills for wireless communications
-  * RF circuit design, e.g.,  the circuit for RF energy harvesting and backscatter communications.
-  * Hand soldering for SMD Components on PCBs, e.g., 0603 capacitors and inductors.
-  * Common experimental equipment, such as Vector Network Analyzers, Spectrum Analyzers, Programmable Signal Generators, and Oscilloscopes.
-
-<h2 id="work-experience"><i class="ion-ios-filing"></i> Experience</h2>
-
-* Marie Curie Research Fellow at The University of Sheffield (Mar. 2021 - present)
-
-* Research Associate at ShanghaiTech University, Shanghai, China. (Aug. 2019 - Jan. 2021)
-  
-* Visiting Ph.D. Student at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (Apr. 2018 - July 2019)
-
-* Visiting Ph.D. Student at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China. (Sept. 2016 - Apr. 2018)
- 
-* Student Internship at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014 - Sep. 2016)
-
-* Research and Teaching Assistant at Beihang University, Beijing, China. (Sept. 2013 - Aug. 2014)
-
-* Intern at EDA Laboratory of Beihang University, Beijing, China. (June 2013 - Aug. 2013)
-
-* Summer student at the school’s innovation Laboratory of Anhui University. (July 2009 - Aug. 2009)
 
 
 
