@@ -35,7 +35,7 @@ and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
 ### OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning
 <p>
-We proposed OmniBuds, which is an advanced earable research platform designed to enable multimodal bio-sensing and on-device machine learning, advancing real-time health perception. Unlike conventional wearables that rely on cloud-based processing, OmniBuds offers direct access to raw physiological data, supporting privacy-preserving, real-time analysis. It integrates a wide array of sensors, including PPG, temperature, IMUs, and multiple microphones, all within a compact True Wireless Stereo (TWS) earbud form factor. Equipped with an embedded machine learning accelerator, OmniBuds enables efficient on-device computation, optimized for low power consumption to support continuous operation. This platform is ideal for researchers aiming to explore health-aware wearable intelligence and real-time physiological monitoring.
+We proposed OmniBuds, an advanced earable research platform designed to enable multimodal bio-sensing and on-device machine learning. Unlike conventional wearables that rely on cloud-based processing, OmniBuds offers direct access to raw physiological data, supporting privacy-preserving, real-time analysis. It integrates a wide array of sensors, including PPG, temperature, IMUs, and multiple microphones, all within a compact True Wireless Stereo (TWS) earbud form factor. Equipped with an embedded machine learning accelerator, OmniBuds enables efficient on-device computation, optimized for low power consumption to support continuous operation. This platform is ideal for researchers aiming to explore health-aware wearable intelligence and real-time physiological monitoring.
 </p>
 <p>
 Web: <a href="https://www.omnibuds.tech/">https://www.omnibuds.tech/</a><br>
@@ -57,7 +57,7 @@ Paper: <a href="https://arxiv.org/abs/2410.04775">https://arxiv.org/abs/2410.047
 
 ### Battery-free wireless sensor nodes for backscatter communications
 #### My contributions and methodologies:
-Currently, I'm working on battery-free wireless sensor nodes for backscatter communications. The proposed node harvests energy from RF signals at RFID frequency bands, and then reflects the RF signals embedded with the raw signals from analog sensors, e.g., nanogenerators, microphones and piezo sensors. The node enables microwatt-level uplink and downlink communications to an RFID Reader at a distance of a couple of meters.
+I led a project on battery-free wireless sensor nodes for backscatter communications. The proposed node harvests energy from RF signals at RFID frequency bands, and then reflects the RF signals embedded with the raw signals from analog sensors, e.g., nanogenerators, microphones and piezo sensors. The node enables microwatt-level uplink and downlink communications to an RFID Reader at a distance of a couple of meters.
 
 As an example of application scenarios, the battery-free nodes are deployed in hazardous environments, .e.g, caves, forests and oceans. A low-altitude drone equipped with an RFID Reader collects the data from the nodes by flying along the nodes one by one. The battery-free design in wireless sensor networks improves the scalability and lifetime of wireless sensor nodes by removing the cost of battery maintenance.
 
