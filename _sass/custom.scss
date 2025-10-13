@@ -16,8 +16,17 @@ body {
   font-size: 0.85em;
 }
 
+// .page {
+//   padding-right: 10em !important; 
+// }
 .page {
-  padding-right: 10em !important; 
+  @include breakpoint($large) {
+    padding-right: 100px !important;
+  }
+
+  @include breakpoint($x-large) {
+    padding-right: 150px !important;
+  }
 }
 
 

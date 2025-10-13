@@ -37,6 +37,7 @@ and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
 
 <h2 id="multimodal"><i class="ion-ios-gear"></i> Multimodal Data and Human-Centered Machine Learning</h2>
+
 {% include_relative projects/omnibuds.md %}
 
 {% include_relative projects/mobicom25demo.md %}
