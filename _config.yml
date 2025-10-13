@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/yang-liu.png"
+  # avatar           : "/assets/images/yang-liu.png"
   bio              : *description #"A final-year Ph.D candidate in Communication and Information System at Chinese Academy of Sciences(CAS)."
   #location         : "Shanghai, China"
   # links:

@@ -1,0 +1,55 @@
+.page__content > p {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+.page__content ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.page__content li {
+  margin-bottom: 0.5em;     
+}
+
+body {
+  font-size: 0.85em;
+}
+
+.page {
+  padding-right: 10em !important; 
+}
+
+
+.page__content h1 {
+  margin-top: 1.8em !important; 
+  // margin-bottom: 0.6em !important;
+}
+
+.page__content h2 {
+  margin-top: 0.5em !important;
+  // margin-bottom: 0.6em !important;
+}
+
+
+// .sidebar ul,
+// .sidebar ol {
+//   padding-left: 0em !important;
+//   margin-left: 0 !important;
+// }
+
+// .sidebar ul ul,
+// .sidebar ol ol {
+//   // padding-left: 1.5em !important;
+//   // margin-left: 0 !important;
+//   font-size: 1em !important;
+// }
+
+.sidebar .toc__menu_large ul,
+.sidebar .toc__menu ul,
+.sidebar .nav__items ul {
+  padding-left: 1em !important;
+  // margin-left: 0 !important;
+  font-size: 1.3em !important;
+}
+
