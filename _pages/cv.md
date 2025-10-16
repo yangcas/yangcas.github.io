@@ -10,8 +10,7 @@ My research bridges physical modeling, signal processing, and intelligent comput
 <a href="https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu" target="_blank">Professor Xiaoli Chu</a>.</p>
 
 
-<p>I received a Ph.D. in Communication and Information Systemsfrom the 
-University of Chinese Academy of Sciences (UCAS), China, in July 2019, supervised by 
+<p>I received a Ph.D. in Communication and Information Systems from the University of Chinese Academy of Sciences (UCAS), China, in July 2019, supervised by 
 <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/yangyang/" target="_blank">Professor Yang Yang</a>. 
 I also earned a M.Eng. in Software Engineering from Beihang University in 2016, 
 and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
