@@ -7,13 +7,22 @@ As an example of application scenarios, the battery-free nodes are deployed in h
 The figures below show the PCB and node design, S11 and the received spectrums of the 2-FSK signals in backscatter communications.
 The reflection coefficient from the proposed circuit (S11) in the first figure is measured by a Rohde & Schwarz network analyzer, which indicates the circuit has good impedance matching at the target frequency (915 MHz). In this project, Keysight ADS is used for impedance matching, schematic and PCB design, and the Large-Signal S-Parameters (LSSP) and harmonic balance simulation. Ettus USRP is used to evaluate the system's performance. An ultra-low power chip (TI MSP430) supports power management in energy harvesting and wireless modulation and demodulation in backscatter communications.
 
-<table style="text-align:center" class="center">
+<table style="text-align:center; margin:auto;">
 <tr>
-<th><a href="/assets/paper_img/EH/EH-4.png"><img src="/assets/paper_img/EH/EH-4.png" style="width:62vw"/></a></th>
-<th><a href="/assets/paper_img/EH/EH-1.gif"><img src="/assets/paper_img/EH/EH-1.gif" style="width:38vw"/></a></th>
-</tr>
-<tr>
-<td><Figurenum>The proposed battery-free wireless sensor node (click the figures to zoom in)</Figurenum></td>
-<td><Figurenum>PCB design and soldering</Figurenum></td>
+
+<td>
+<a href="/assets/paper_img/EH/EH-4.png">
+    <img src="/assets/paper_img/EH/EH-4.png" style="width:62vw; border-radius:8px;"/>
+</a>
+<div><b>Battery-free Wireless Sensor Node Design and Test</b><br></div>
+</td>
+
+<td>
+<a href="/assets/paper_img/EH/EH-1.gif">
+    <img src="/assets/paper_img/EH/EH-1.gif" style="width:38vw; border-radius:8px;"/>
+</a>
+<div><b>PCB Design and Assembly</b><br></div>
+</td>
+
 </tr>
 </table>

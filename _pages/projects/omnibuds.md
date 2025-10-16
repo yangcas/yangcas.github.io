@@ -1,19 +1,34 @@
 
-### OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning [<font color="blue">[paper]</font>](https://arxiv.org/abs/2410.04775)
+### OmniBuds: A Sensory Earable Platform for Multimodal Bio-Sensing and On-Device Machine Learning [<font color="blue">[paper]</font>](https://arxiv.org/abs/2410.04775)
+
+We proposed OmniBuds, an advanced AI-powered earable research platform designed to enable multimodal bio-sensing and on-device machine learning.
+OmniBuds integrates a comprehensive suite of sensors, including PPG for cardiovascular monitoring, 9-axis inertial measurement units (IMUs)—comprising a 3-axis accelerometer, 3-axis gyroscope, and 3-axis magnetometer—for motion and spatial tracking, skin temperature sensors, and multiple microphones (one inward-facing and two outward-facing) for both in-ear physiological sensing and ambient acoustic capture.
+
+Each earbud is equipped with an embedded machine learning accelerator that supports efficient, low-power computation for real-time multimodal data analysis.
+Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard audio functionalities such as active noise cancellation (ANC), transparency mode, music playback, and phone calls, providing both research flexibility and everyday usability.
+
+This platform serves as an open research tool for the community to explore AI-driven multimodal fusion, health-aware wearable intelligence, and real-time physiological monitoring.
+
 <p>
-We proposed OmniBuds, an advanced earable research platform designed to enable multimodal bio-sensing and on-device machine learning. Unlike conventional wearables that rely on cloud-based processing, OmniBuds offers direct access to raw physiological data, supporting privacy-preserving, real-time analysis. It integrates a wide array of sensors, including PPG, temperature, IMUs, and multiple microphones, all within a compact True Wireless Stereo (TWS) earbud form factor. Equipped with an embedded machine learning accelerator, OmniBuds enables efficient on-device computation, optimized for low power consumption to support continuous operation. This platform is ideal for researchers aiming to explore health-aware wearable intelligence and real-time physiological monitoring.
-</p>
-<p>
-Web: <a href="https://www.omnibuds.tech/">https://www.omnibuds.tech/</a><br>
+Web: <a href="https://www.omnibuds.tech/" style="color:blue;">https://www.omnibuds.tech/</a><br>
 </p>
 
-<table style="text-align:center" class="center">
+<table style="text-align:center; margin:auto;">
 <tr>
-<th><a href="/assets/paper_img/OmniBuds/HW.png"><img src="/assets/paper_img/OmniBuds/HW.png" style="width:58vw"/></a></th>
-<th><a href="/assets/paper_img/OmniBuds/System.jpg"><img src="/assets/paper_img/OmniBuds/System.jpg" style="width:42vw"/></a></th>
-</tr>
-<tr>
-<td><Figurenum>OmniBuds Hardware Block Diagram.</Figurenum></td>
-<td><Figurenum>Placement of the sensors in OmniBuds</Figurenum></td>
+
+<td>
+<a href="/assets/paper_img/OmniBuds/HW.png">
+    <img src="/assets/paper_img/OmniBuds/HW.png" style="width:35vw; border-radius:8px;"/>
+</a>
+<div><b>OmniBuds Hardware Block Diagram</b><br><small>System architecture showing embedded ML accelerator and multimodal sensor interfaces.</small></div>
+</td>
+
+<td>
+<a href="/assets/paper_img/OmniBuds/System.jpg">
+    <img src="/assets/paper_img/OmniBuds/System.jpg" style="width:23vw; border-radius:8px;"/>
+</a>
+<div><b>Sensor Placement in OmniBuds</b><br><small>Integration of IMUs, PPG, temperature, and microphone modules within the compact TWS earbud form factor.</small></div>
+</td>
+
 </tr>
 </table>

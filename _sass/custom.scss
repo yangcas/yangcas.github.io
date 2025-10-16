@@ -36,10 +36,20 @@ body {
 }
 
 .page__content h2 {
-  margin-top: 0.5em !important;
-  // margin-bottom: 0.6em !important;
+  // margin-top: 0.8em !important;
+  margin-bottom: 0em !important;
 }
 
+
+.page__content a:not(.btn) {
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 30px rgba(#000, 1);
+      }
+    }
+  }
 
 // .sidebar ul,
 // .sidebar ol {
