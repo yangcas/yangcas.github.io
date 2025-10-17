@@ -1,4 +1,5 @@
-### Auditory Attention from In-Ear Muscle Contractions Using Commodity Earbuds
+### Auditory Attention from In-Ear Muscle Contractions Using Commodity Earbuds [<font color="blue">[paper]</font>](https://ieeexplore.ieee.org/abstract/document/10889668)
+
 
 This project explores the feasibility of detecting auditory attention shifts through subtle in-ear muscle contractions, using commodity earbuds. By leveraging ultrasound signals emitted and received by the built-in speaker–microphone pair, the system detects minute canal deformations correlated with attention changes. This enables continuous, unobtrusive monitoring of user attention without interrupting normal listening.
 A phase-based signal processing pipeline extracts micro-displacement features, while a heartbeat-aware classification stage distinguishes attentional states. Results from controlled user studies confirm that the system can reliably detect attention lapses, demonstrating the potential of cognitive-aware earables.
