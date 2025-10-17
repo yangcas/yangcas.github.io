@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 toc: true
 ---
-<p>I am a Research Scientist at <a href="https://www.nokia.com/bell-labs/about/locations/cambridge-uk/" target="_blank">Nokia Bell Labs</a>, Cambridge, UK, specializing in physics-informed and data-driven multimodal sensing and machine learning.  
+<p>I am a Research Scientist at <a href="https://www.nokia.com/bell-labs/about/locations/cambridge-uk/" target="_blank">Nokia Bell Labs</a>, Cambridge, UK, specializing in multimodal data processing and machine learning.  
 My research bridges physical modeling, signal processing, and intelligent computation, enabling systems that understand human physiology, environment, and interaction in real-world settings.</p>
 
 <p>Previously, I was a Marie Curie Research Fellow at The University of Sheffield, UK, where I led an EU Horizon 2020 project on battery-free backscatter communications under the supervision of 
@@ -15,7 +15,7 @@ My research bridges physical modeling, signal processing, and intelligent comput
 I also earned a M.Eng. in Software Engineering from Beihang University in 2016, 
 and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
-<p>I am always seeking <strong>new opportunities and collaborations</strong> that allow me to explore and expand the boundaries of physics-informed and data-driven multimodal technologies. I welcome partnerships that bridge research, innovation, and real-world impact.</p>
+<p>I am always seeking <strong>new opportunities and collaborations</strong> that allow me to explore and expand the boundaries of multimodal technologies. I welcome partnerships that bridge research, innovation, and real-world impact.</p>
 
 
 
