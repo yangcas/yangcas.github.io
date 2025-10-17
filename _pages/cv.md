@@ -26,7 +26,7 @@ and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
 <h2 id="multimodal"><i class="ion-ios-gear"></i> Multimodal Sensing and Human-Centered Machine Learning</h2>
 
-We design AI-enhanced wearable and earable systems that fuse multimodal biosignals from diverse sensors—such as photoplethysmography (PPG), inertial measurement units (IMUs), acoustic and temperature sensors, and millimeter-wave (mmWave) radar—to interpret physiological and behavioral states.
+We design AI-enhanced wearable and earable systems that fuse multimodal biosignals from diverse sensors, such as photoplethysmography (PPG), inertial measurement units (IMUs), acoustic and temperature sensors, and millimeter-wave (mmWave) radar, to interpret physiological and behavioral states.
 Projects such as OmniBuds, EarFusion, SPATIUM, and mmHvital exemplify this direction, integrating embedded machine learning, signal-quality-aware fusion, and spatiotemporal context modeling to advance health perception and human–computer interaction.
 
 {% include_relative projects/omnibuds.md %}
