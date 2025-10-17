@@ -2,7 +2,7 @@
 ### OmniBuds: A Sensory Earable Platform for Multimodal Bio-Sensing and On-Device Machine Learning [<font color="blue">[paper]</font>](https://arxiv.org/abs/2410.04775)
 
 We proposed OmniBuds, an advanced AI-powered earable research platform designed to enable multimodal bio-sensing and on-device machine learning.
-OmniBuds integrates a comprehensive suite of sensors, including PPG for cardiovascular monitoring, 9-axis inertial measurement units (IMUs)—comprising a 3-axis accelerometer, 3-axis gyroscope, and 3-axis magnetometer—for motion and spatial tracking, skin temperature sensors, and multiple microphones (one inward-facing and two outward-facing) for both in-ear physiological sensing and ambient acoustic capture.
+OmniBuds integrates a comprehensive suite of sensors, including PPG for cardiovascular monitoring, 9-axis inertial measurement units (IMUs), which include a 3-axis accelerometer, 3-axis gyroscope, and 3-axis magnetometer—for motion and spatial tracking, skin temperature sensors, and multiple microphones (one inward-facing and two outward-facing) for both in-ear physiological sensing and ambient acoustic capture.
 
 Each earbud is equipped with an embedded machine learning accelerator that supports efficient, low-power computation for real-time multimodal data analysis.
 Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard audio functionalities such as active noise cancellation (ANC), transparency mode, music playback, and phone calls, providing both research flexibility and everyday usability.

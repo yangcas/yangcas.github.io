@@ -1,7 +1,7 @@
 ### SPATIUM: A Framework for Multimodal, LLM-Enhanced, and Spatiotemporal Machine Learning in Human-Centered Health Applications [<font color="blue">[paper]</font>](https://dl.acm.org/doi/10.1145/3711875.3736686)
 SPATIUM redefines digital health by fusing physiological sensing, spatial intelligence, and context-aware machine learning into one cohesive framework.
 
-It bridges the gap between body and environment — capturing heart rate, HRV, respiration, and temperature from OmniBuds, while integrating Ultra-Wideband (UWB) indoor localization and environmental data such as light, sound, and temperature.
+It bridges the gap between body and environment to capture heart rate, HRV, respiration, and temperature from OmniBuds, while integrating Ultra-Wideband (UWB) indoor localization and environmental data such as light, sound, and temperature.
 The result is an immersive spatiotemporal health map rendered in 2D, 3D, and Apple Vision Pro environments, enabling intuitive visualization of how the body responds to its surroundings in real time.
 
 Powered by large language models (LLMs), SPATIUM can interpret multimodal data, explain physiological changes within environmental context, and generate personalized insights and alerts in natural language.

@@ -3,7 +3,7 @@
 [<font color="blue">[To be demonstrated at ACM MobiCom 2025, Hong Kong, China]</font>](https://www.sigmobile.org/mobicom/2025/)
 
 In this demo, OmniBuds act as an *AI-enhanced human–machine interface* to control the Chrome T-Rex game. Head and body motions detected through IMU data trigger jumping and ducking actions.
-A real-time visualization dashboard displays raw IMU and PPG waveforms, derived vital signs, and gameplay feedback. The AI assistant analyses user performance—including reaction time, movement quality, fatigue indicators, and heart rate—and provides adaptive auditory cues such as “Jump/Duck now!” through the earbuds.
+A real-time visualization dashboard displays raw IMU and PPG waveforms, derived vital signs, and gameplay feedback. The AI assistant analyses user performance, which includes reaction time, movement quality, fatigue indicators, and heart rate and provides adaptive auditory cues such as “Jump/Duck now!” through the earbuds.
 
 As shown in the right figure below, the system architecture integrates multimodal sensing, machine learning  based analysis, and personalized feedback loops. The AI layer fuses physiological and motion data from OmniBuds to enable adaptive, context-aware applications such as gaming and human–computer interaction.
 

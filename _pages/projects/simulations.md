@@ -1,7 +1,7 @@
 To strengthen data-driven models with physical realism, I employ finite element simulations using tools such as COMSOL Multiphysics and ANSYS Fluent to study piezoelectric stress, acoustic propagation, and fluid–structure coupling.
 Through these simulations, I investigate how energy propagates, transforms, and couples across diverse materials, geometries, boundary conditions, and environments.
 
-These studies form the physics-informed foundation of my machine learning research—bridging the gap between physical constraints and real-world applications, a challenge that has become increasingly relevant in the era of large generative models. By embedding physical principles into learning architectures, physics-informed models can guide AI systems toward a deeper understanding of the physical world and more reliable generalization across domains.
+These studies form the physics-informed foundation of my vision for machine learning research, which bridging the gap between physical constraints and real-world applications, a challenge that has become increasingly relevant in the era of large generative models. By embedding physical principles into learning architectures, physics-informed models can guide AI systems toward a deeper understanding of the physical world and more reliable generalization across domains.
 
 The following examples illustrate selected multiphysics simulations from my previous work.
 
