@@ -24,7 +24,7 @@ and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
 
 
-<h2 id="multimodal" short-label="Multimodal ML & Healthcare"><i class="ion-ios-gear"></i> Multimodal Sensing and Human-Centered Machine Learning</h2>
+<h2 id="multimodal" short-label="📊 Multimodal ML & Healthcare"><i class="ion-ios-gear"></i> Multimodal Sensing and Human-Centered Machine Learning</h2>
 
 We design AI-enhanced wearable and earable systems that fuse multimodal biosignals from diverse sensors, such as photoplethysmography (PPG), inertial measurement units (IMUs), acoustic and temperature sensors, and millimeter-wave (mmWave) radar, to interpret physiological and behavioral states.
 Projects such as <a href="#omnibuds">OmniBuds</a>, <a href="#earfusion">EarFusion</a>, <a href="#spatium">SPATIUM</a>, and <a href="#mmhvital">mmHvital</a> exemplify this direction, integrating embedded machine learning, signal-quality-aware fusion, and spatiotemporal context modeling to advance health perception and human–computer interaction.
@@ -42,7 +42,7 @@ Projects such as <a href="#omnibuds">OmniBuds</a>, <a href="#earfusion">EarFusio
 
 
 
-<h2 id="signal" short-label="Speech, Audio, and Acoustics"><i class="ion-wifi"></i> Physics-Informed Signal Processing for Data-Driven Intelligence</h2>
+<h2 id="signal" short-label="🎤 Speech, Audio, and Acoustics"><i class="ion-wifi"></i> Physics-Informed Signal Processing for Data-Driven Intelligence</h2>
 <p>
 I explore physics-informed and data-driven signal processing combined with neural architectures to advance speech, audio, acoustic and radio sensing.
 Projects such as <a href="#lpcse">LPCSE</a> demonstrate how classical physical and rule-based models can be embedded within end-to-end machine learning frameworks to achieve efficient, interpretable, and physically grounded intelligence.
@@ -66,7 +66,7 @@ The <a href="#backscatter">Radio and Acoustic Backscatter</a> project develops u
 <!-- {% include_relative projects/lowpower.md %} -->
 
 
-<h2 id="simulation"><i class="ion-wifi"></i> Multiphysics Simulation</h2>
+<h2 id="simulation" short-label="🔎 Multiphysics Simulation"> <i class="ion-cube"></i> Multiphysics Simulation</h2>
 
 {% include_relative projects/simulations.md %}
 
