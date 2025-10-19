@@ -1,4 +1,6 @@
-### TEOAE Measurement Beyond Clinical Settings: Intermittent Acquisition and Computation in Everyday Audio [To appear]
+<h3 id="auditory" short-label = "Otoacoustic Emissions"> TEOAE Measurement Beyond Clinical Settings: Intermittent Acquisition and Computation in Everyday Audio
+<a style="color: blue; font-size: 0.9em;">[To appear]</a>
+</h3>
 
 This work investigates how Transient Evoked Otoacoustic Emissions (TEOAEs), a standard non-invasive hearing assessment technique, can be extended beyond traditional clinical setups into everyday listening environments.  
 We propose a framework that intermittently embeds TEOAE click stimuli within natural audio content such as podcasts, enabling passive hearing screening without requiring dedicated hardware or clinical supervision.
@@ -12,3 +14,5 @@ A controlled pilot study was conducted to analyze listener perception and measur
   <b>Experimental Setup for TEOAE Measurement</b><br>
   <small>(I) Participant with ER-10C probe, (II) Hardware chain, (III) Time-domain TEOAE waveform, (IV) Measurement schematic.</small>
 </p>
+
+---

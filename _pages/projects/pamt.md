@@ -1,5 +1,6 @@
-
-### PAMT: Phase-based Acoustic Ranging and Motion Tracking in Multipath Fading Environments (IEEE INFOCOM) [<font color="blue">[paper]</font>](https://ieeexplore.ieee.org/document/8737366)
+<h3 id="pamt" short-label = "PAMT: Acoustic Motion Tracking"> PAMT: Phase-based Acoustic Ranging and Motion Tracking in Multipath Fading Environments (IEEE INFOCOM)
+<a href="https://ieeexplore.ieee.org/document/8737366" style="color: blue; font-size: 0.9em;">[paper]</a>
+</h3>
 
 Accurate and low-cost motion tracking is essential for mobile interaction, VR/AR applications, and human–computer interfaces. Traditional systems often rely on specialized hardware such as cameras or IMUs, which are sensitive to occlusion or require line-of-sight. To overcome these limitations, I explored acoustic phase sensing as a new modality for precise ranging and motion tracking using only built-in microphones and speakers on commercial mobile devices.
 
@@ -54,15 +55,15 @@ A prototype system of ranging is implemented on a standard Android smartphone, w
 A demonstration is shown in the video below.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/XJROYu_67ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="fitvidsignore" src="https://www.youtube.com/embed/XJROYu_67ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 A brief introduction to this project is shown in the video below.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/Hrjy5ulx6NY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="fitvidsignore" src="https://www.youtube.com/embed/Hrjy5ulx6NY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 
 
-
+---

@@ -105,11 +105,11 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/yang-liu.png"
   bio              : *description #"A final-year Ph.D candidate in Communication and Information System at Chinese Academy of Sciences(CAS)."
-  location         : "Location: Cambridge, United Kingdom"
+  location         : "Cambridge, United Kingdom"
   linkedin         : "yang-liu-237a25255"
   links:
       - label: "Google Scholar"
-        icon: "fas fa-fw fa-link"
+        icon: "fas fa-fw fa-book"
         url: "https://scholar.google.com/citations?user=L6Cvx2gAAAAJ&hl=en"
     # - label: "Made Mistakes"
       # icon: "fas fa-fw fa-link"

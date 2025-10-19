@@ -1,4 +1,6 @@
-### EarFusion: Quality-Aware Fusion of In-Ear Audio and Photoplethysmography for Heart Rate Monitoring [<font color="blue">[paper]</font>](https://dl.acm.org/doi/10.1145/3737901.3768366)
+<h3 id="earfusion" short-label = "EarFusion: In-ear Sound- PPG"> EarFusion: Quality-Aware Fusion of In-Ear Audio and Photoplethysmography for Heart Rate Monitoring 
+<a href="https://dl.acm.org/doi/10.1145/3737901.3768366" style="color: blue; font-size: 0.9em;">[paper]</a>
+</h3>
 
 EarFusion explores how in-ear audio and PPG, which includes two physiologically complementary modalities and can be dynamically fused for robust heart rate (HR) monitoring in real-world environments.  
 While PPG is widely used in wearables, it is easily corrupted by motion and skin–sensor variability. In contrast, in-ear audio sensing captures cardio-mechanical vibrations that are resilient to motion but sensitive to acoustic noise. EarFusion bridges these limitations through signal quality–aware fusion that adapts in real time to the reliability of each modality.

@@ -1,4 +1,6 @@
-### mmHvital: A Study on Head-Mounted mmWave Radar for Vital Sign Monitoring [<font color="blue">[paper]</font>](https://dl.acm.org/doi/10.1145/3722570.3726889)
+<h3 id="mmhvital" short-label = "mmHvital: mmWave - Vital Sign"> mmHvital: A Study on Head-Mounted mmWave Radar for Vital Sign Monitoring 
+<a href="https://dl.acm.org/doi/10.1145/3722570.3726889" style="color: blue; font-size: 0.9em;">[paper]</a>
+</h3>
 
 As wearable sensing evolves toward non-contact and mobility-friendly designs, mmHvital explores how head-mounted mmWave radar can monitor vital signs such as heart rate (HR) and respiration rate (RR) without chest-level placement. The motivation stems from the limitations of traditional radar setups, which require fixed, front-facing positioning and make them unsuitable for natural, mobile usage in daily scenarios.
 

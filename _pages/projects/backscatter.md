@@ -1,4 +1,6 @@
-### Battery-free Wireless Sensor Nodes for Backscatter Communications [<font color="blue">[paper]</font>](https://ieeexplore.ieee.org/document/10623056)
+<h3 id="backscatter" short-label=" Raido and Acoustics Backscatter"> Battery-free Wireless Sensor Nodes for Raido and Acoustics Backscatter Communications
+<a href="https://ieeexplore.ieee.org/document/10623056" style="color: blue; font-size: 0.9em;">[paper]</a>
+</h3>
 
 I led a project on battery-free wireless sensor nodes for backscatter communications. The proposed node harvests energy from RF signals at RFID frequency bands, and then reflects the RF signals embedded with the raw signals from analog sensors, e.g., nanogenerators, microphones and piezo sensors. The node enables microwatt-level uplink and downlink communications to an RFID Reader at a distance of a couple of meters.
 

@@ -24,10 +24,11 @@ and a B.Eng. in Microelectronics from Anhui University in 2012.</p>
 
 
 
-<h2 id="multimodal"><i class="ion-ios-gear"></i> Multimodal Sensing and Human-Centered Machine Learning</h2>
+<h2 id="multimodal" short-label="Multimodal ML & Healthcare"><i class="ion-ios-gear"></i> Multimodal Sensing and Human-Centered Machine Learning</h2>
 
 We design AI-enhanced wearable and earable systems that fuse multimodal biosignals from diverse sensors, such as photoplethysmography (PPG), inertial measurement units (IMUs), acoustic and temperature sensors, and millimeter-wave (mmWave) radar, to interpret physiological and behavioral states.
-Projects such as OmniBuds, EarFusion, SPATIUM, and mmHvital exemplify this direction, integrating embedded machine learning, signal-quality-aware fusion, and spatiotemporal context modeling to advance health perception and human–computer interaction.
+Projects such as <a href="#omnibuds">OmniBuds</a>, <a href="#earfusion">EarFusion</a>, <a href="#spatium">SPATIUM</a>, and <a href="#mmhvital">mmHvital</a> exemplify this direction, integrating embedded machine learning, signal-quality-aware fusion, and spatiotemporal context modeling to advance health perception and human–computer interaction.
+
 
 {% include_relative projects/omnibuds.md %}
 
@@ -41,11 +42,14 @@ Projects such as OmniBuds, EarFusion, SPATIUM, and mmHvital exemplify this direc
 
 
 
-<h2 id="wireless"><i class="ion-wifi"></i> Physics-Informed Signal Processing for Data-Driven Wireless Intelligence</h2>
+<h2 id="signal" short-label="Speech, Audio, and Acoustics"><i class="ion-wifi"></i> Physics-Informed Signal Processing for Data-Driven Intelligence</h2>
 <p>
-I explore physics-informed and data-driven signal processing combined with neural architectures to advance speech, radar, and acoustic sensing.  
-Projects such as LPCSE demonstrate how classical physical and rule-based models can be embedded within end-to-end data-driven machine learning frameworks, achieving efficient, interpretable, and physically grounded intelligence.  
-Projects on auditory attention decoding and otoacoustic emission analysis build on physics-informed physiological and auditory principles to interpret received signals and extract informative features, enabling data-driven learning and inference.
+I explore physics-informed and data-driven signal processing combined with neural architectures to advance speech, audio, acoustic and radio sensing.
+Projects such as <a href="#lpcse">LPCSE</a> demonstrate how classical physical and rule-based models can be embedded within end-to-end machine learning frameworks to achieve efficient, interpretable, and physically grounded intelligence.
+Projects on <a href="#auditory">Auditory Attention</a> decoding and otoacoustic emission analysis build on physiological and auditory principles to interpret received signals and extract informative features, enabling data-driven learning and inference.
+The <a href="#pamt">PAMT</a> project investigates how multipath propagation affects phase responses across acoustic frequencies, introducing a real-time metric to quantify such distortion and a strategy to mitigate it.
+This approach enables millimetre-level acoustic ranging and motion tracking using only commercial microphones and speakers.
+The <a href="#backscatter">Radio and Acoustic Backscatter</a> project develops ultra-low-power wireless sensor nodes that harvest energy from ambient radio waves and embed acoustic information into backscattered RF signals.
 </p>
 
 

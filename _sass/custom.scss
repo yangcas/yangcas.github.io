@@ -51,19 +51,6 @@ body {
     }
   }
 
-// .sidebar ul,
-// .sidebar ol {
-//   padding-left: 0em !important;
-//   margin-left: 0 !important;
-// }
-
-// .sidebar ul ul,
-// .sidebar ol ol {
-//   // padding-left: 1.5em !important;
-//   // margin-left: 0 !important;
-//   font-size: 1em !important;
-// }
-
 .sidebar .toc__menu_large ul,
 .sidebar .toc__menu ul,
 .sidebar .nav__items ul {
@@ -71,4 +58,12 @@ body {
   // margin-left: 0 !important;
   font-size: 1.3em !important;
 }
+
+
+.toc__menu li ul li ul>li a,
+.toc__menu_large li ul li ul>li a {
+  padding-left: 0em !important;
+  // font-size: 1em !important;
+}
+
 
