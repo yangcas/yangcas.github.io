@@ -1,4 +1,4 @@
-<h3 id="oae" short-label = "Otoacoustic Emissions"> TEOAE Measurement Beyond Clinical Settings: Intermittent Acquisition and Computation in Everyday Audio
+<h3 id="oae" short-label="Otoacoustic Emissions"> TEOAE Measurement Beyond Clinical Settings: Intermittent Acquisition and Computation in Everyday Audio
 <a style="color: blue; font-size: 0.9em;">[To appear]</a>
 </h3>
 
