@@ -36,3 +36,10 @@ Powered by large language models (LLMs), SPATIUM can interpret multimodal data, 
   </td>
 </tr>
 </table>
+
+
+A brief introduction to this project is shown in the video below.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/7TuYXRYoOCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
