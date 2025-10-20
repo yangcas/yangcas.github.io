@@ -52,11 +52,10 @@ body {
   }
 
 .sidebar .toc__menu_large ul,
-.sidebar .toc__menu ul,
-.sidebar .nav__items ul {
+.sidebar .toc__menu ul {
   padding-left: 1em !important;
   // margin-left: 0 !important;
-  font-size: 1.3em !important;
+  font-size: 1.3em  !important;
 }
 
 
@@ -65,5 +64,21 @@ body {
   padding-left: 0em !important;
   // font-size: 1em !important;
 }
+
+
+.sidebar .toc__menu_large li ul > li a,
+.sidebar .toc__menu li ul > li a{
+    font-weight: bold !important;
+}
+
+
+.sidebar .toc__menu_large li ul li ul>li a,
+.sidebar .toc__menu li ul li ul>li a{
+    font-weight: normal !important;
+}
+
+
+
+
 
 
