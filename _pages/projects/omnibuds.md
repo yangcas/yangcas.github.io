@@ -9,10 +9,9 @@ OmniBuds integrates a comprehensive suite of sensors, including PPG for cardiova
 Each earbud is equipped with an embedded machine learning accelerator that supports efficient, low-power computation for real-time multimodal data analysis.
 Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard audio functionalities such as active noise cancellation (ANC), transparency mode, music playback, and phone calls, providing both research flexibility and everyday usability.
 
-This platform serves as an open research tool for the community to explore AI-driven multimodal fusion, health-aware wearable intelligence, and real-time physiological monitoring.
 
 <p>
-Web: <a href="https://www.omnibuds.tech/" style="color:blue;">https://www.omnibuds.tech/</a><br>
+OmniBuds Web: <a href="https://www.omnibuds.tech/" style="color:blue;">https://www.omnibuds.tech/</a><br>
 </p>
 
 <table style="text-align:center; margin:auto;">
