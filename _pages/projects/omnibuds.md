@@ -10,9 +10,41 @@ Each earbud is equipped with an embedded machine learning accelerator that suppo
 Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard audio functionalities such as active noise cancellation (ANC), transparency mode, music playback, and phone calls, providing both research flexibility and everyday usability.
 
 
-<p>
-OmniBuds Web: <a href="https://www.omnibuds.tech/" style="color:blue;">https://www.omnibuds.tech/</a><br>
-</p>
+
+
+<div style="margin-top: 1em; margin-bottom: 1.5em; line-height: 1.6;">
+  <p style="margin-bottom: 0.8em;">
+    <strong>OmniBuds Web:</strong>
+    <a href="https://www.omnibuds.tech/" style="color: blue; text-decoration:none;">https://www.omnibuds.tech/</a>
+  </p>
+
+  <p style="margin-bottom: 0.2em;">
+    The <strong>OmniBuds</strong> project has received broad media attention for its innovation in
+    AI-powered earable sensing and on-device machine learning.
+  </p>
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 0.6em;">
+      <a href="https://finance.yahoo.com/news/world-first-ear-worn-ai-184900890.html"
+         style="color: blue; text-decoration:none;">
+         Yahoo Finance — World’s First Ear-Worn AI/ML Platform for Physiological Monitoring Introduced by Nokia Bell Labs and Cambridge Future Tech
+      </a>
+    </li>
+    <li style="margin-bottom: 0.6em;">
+      <a href="https://audioxpress.com/news/omnibuds-hearables-project-by-nokia-bell-labs-backed-by-cambridge-future-tech"
+         style="color: blue; text-decoration:none;">
+         AudioXpress — OmniBuds: Hearables Project Backed by Cambridge Future Tech
+      </a>
+    </li>
+    <li style="margin-bottom: 0.6em;">
+      <a href="https://www.camfuturetech.com/portfolio/omnibuds"
+         style="color: blue; text-decoration:none;">
+         Cambridge Future Tech — OmniBuds: DeepTech Venture Builder
+      </a>
+    </li>
+  </ul>
+</div>
+
+
 
 <table style="text-align:center; margin:auto;">
 <tr>

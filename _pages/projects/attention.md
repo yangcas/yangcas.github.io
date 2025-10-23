@@ -5,7 +5,11 @@
 This project explores the feasibility of detecting auditory attention shifts through subtle in-ear muscle contractions, using commodity earbuds. By leveraging ultrasound signals emitted and received by the built-in speaker–microphone pair, the system detects minute canal deformations correlated with attention changes. This enables continuous, unobtrusive monitoring of user attention without interrupting normal listening.
 A phase-based signal processing pipeline extracts micro-displacement features, while a heartbeat-aware classification stage distinguishes attentional states. Results from controlled user studies confirm that the system can reliably detect attention lapses, demonstrating the potential of cognitive-aware earables.
 
----
+Social Media Mentions:
+<p>
+<a href=" https://www.umiacs.umd.edu/news-events/news/earbuds-and-echoes-new-way-track-auditory-attention" style="color: blue; text-decoration:none;">Earbuds and Echoes: A New Way to Track Auditory Attention</a>
+</p>
+
 
 <table style="text-align:center; margin:auto;">
 <tr>

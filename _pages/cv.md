@@ -72,3 +72,5 @@ The <a href="#backscatter">Radio and Acoustic Backscatter</a> project develops u
 
 
 {% include_relative projects/publications.md %}
+
+<!-- bundle exec jekyll serve  -->
