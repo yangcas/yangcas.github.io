@@ -42,9 +42,9 @@ I also lead projects such as <a href="#earfusion">EarFusion</a>, <a href="#spati
 
 
 
-<h2 id="signal" short-label="🎤 Speech, Audio, and Acoustics"><i class="ion-wifi"></i> Physics-Informed Signal Processing for Data-Driven Intelligence</h2>
+<h2 id="signal" short-label="🎤 Speech, Audio, and Radio"><i class="ion-wifi"></i> Wireless: Speech, Audio, and Radio</h2>
 <p>
-I explore physics-informed and data-driven signal processing combined with neural architectures to advance speech, audio, acoustic, and radio sensing, and lead several research projects in this direction.
+I work on physics-informed and data-driven wireless technologies augmented with neural networks to advance speech, audio, and radio sensing, and lead several research projects in this direction.
 <a href="#lpcse">LPCSE</a> demonstrate how classical physical and rule-based models can be embedded within end-to-end machine learning frameworks to achieve efficient, interpretable, and physically grounded intelligence.
 Projects on <a href="#auditory">Auditory Attention</a> decoding and otoacoustic emission analysis build on physiological and auditory principles to interpret received signals and extract informative features, enabling data-driven learning and inference.
 The <a href="#pamt">PAMT</a> project studies multipath-induced phase distortion across acoustic frequencies and introduces a real-time metric and mitigation strategy, achieving millimetre-level acoustic ranging and motion tracking with commercial microphones and speakers.
