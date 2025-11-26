@@ -1,7 +1,7 @@
 <h1 id="publications"><i class="ion-ios-book"></i> Publications</h1>
 
 - **Yang Liu**, Fahim Kawsar, and Alessandro Montanari, "Demo: A Real-Time Multimodal Sensing and Feedback System for Closed-Loop Wearable Interaction Using OmniBuds," *Proceedings of ACM MobiCom'25 - the 31st Annual International Conference on
-Mobile Computing and Networking*, 2025. DOI: 10.1145/3680207.3765602.
+Mobile Computing and Networking*, 2025. [<font color="blue">[paper]</font>](https://dl.acm.org/doi/abs/10.1145/3680207.3765602)
 
 - **Yang Liu**, and Alessandro Montanari, "EarFusion: Quality-Aware Fusion of In-Ear Audio and Photoplethysmography for Heart Rate Monitoring," *Proceedings of ACM IASA'25 - the 3rd ACM International Workshop on Intelligent Acoustic Systems and Applications (co-located with ACM MobiCom'25)*, 2025. [<font color="blue">[paper]</font>](https://dl.acm.org/doi/abs/10.1145/3737901.3768366)
 

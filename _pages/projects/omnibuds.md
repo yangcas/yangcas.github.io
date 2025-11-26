@@ -24,12 +24,6 @@ Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard a
   </p>
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li style="margin-bottom: 0.6em;">
-      <a href="https://finance.yahoo.com/news/world-first-ear-worn-ai-184900890.html"
-         style="color: blue; text-decoration:none;">
-         Yahoo Finance — World’s First Ear-Worn AI/ML Platform for Physiological Monitoring Introduced by Nokia Bell Labs and Cambridge Future Tech
-      </a>
-    </li>
-    <li style="margin-bottom: 0.6em;">
       <a href="https://audioxpress.com/news/omnibuds-hearables-project-by-nokia-bell-labs-backed-by-cambridge-future-tech"
          style="color: blue; text-decoration:none;">
          AudioXpress — OmniBuds: Hearables Project Backed by Cambridge Future Tech
