@@ -1,4 +1,5 @@
 <h3 id="mobicom25-demo" short-label = "OmniBuds Demo"> OmniBuds Demo: AI-Powered Multimodal Sensing for Human Enhancement
+<a href="https://dl.acm.org/doi/abs/10.1145/3680207.3765602" style="color: blue; font-size: 0.9em;">[paper]</a>
 </h3>
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3680207.3765602" style="color: blue; font-size: 0.9em;">[Demonstrated at ACM MobiCom 2025, Hong Kong, China]</a>
