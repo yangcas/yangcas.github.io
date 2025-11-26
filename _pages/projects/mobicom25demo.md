@@ -1,7 +1,7 @@
-<h3 id="omnibuds-demo" short-label = "OmniBuds Demo"> OmniBuds Demo: AI-Powered Multimodal Sensing for Human Enhancement
+<h3 id="mobicom25-demo" short-label = "OmniBuds Demo"> OmniBuds Demo: AI-Powered Multimodal Sensing for Human Enhancement
 </h3>
 
-<a href="https://www.sigmobile.org/mobicom/2025/" style="color: blue; font-size: 0.9em;">[To be demonstrated at ACM MobiCom 2025, Hong Kong, China]</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3680207.3765602" style="color: blue; font-size: 0.9em;">[Demonstrated at ACM MobiCom 2025, Hong Kong, China]</a>
 
 In this demo, OmniBuds act as an *AI-enhanced human–machine interface* to control the Chrome T-Rex game. Head and body motions detected through IMU data trigger jumping and ducking actions.
 A real-time visualization dashboard displays raw IMU and PPG waveforms, derived vital signs, and gameplay feedback. The AI assistant analyses user performance, which includes reaction time, movement quality, fatigue indicators, and heart rate and provides adaptive auditory cues such as “Jump/Duck now!” through the earbuds.
