@@ -15,7 +15,7 @@ Built upon a True Wireless Stereo (TWS) design, OmniBuds also retains standard a
 <div style="margin-top: 1em; margin-bottom: 1.5em; line-height: 1.6;">
   <p style="margin-bottom: 0.8em;">
     <strong>OmniBuds Web:</strong>
-    <a href="https://www.omnibuds.tech/" style="color: blue; text-decoration:none;">https://www.omnibuds.tech/</a>
+    <a href="https://www.omnibuds.tech/solutions/research" style="color: blue; text-decoration:none;">https://www.omnibuds.tech/solutions/research</a>
   </p>
 
   <p style="margin-bottom: 0.2em;">
